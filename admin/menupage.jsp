@@ -11,7 +11,7 @@
 
 <h1> <center><u>GRAM PANCHAYAT</u></center> </h1>
 <center class="menu">
-	<a href="propbill.jsp"><input type="button" class="button" value="Property Tax"></a>
+	<a href="prophistory.jsp"><input type="button" class="button" value="Property Tax"></a>
 	<!-- <a href="waterbill.jsp"><input type="button" class="button" value="Water Bill"></a><br>
 	<a href="electricbill.jsp"><input type="button" class="button" value="Electricity Bill"></a>
 	<a href="history.jsp"><input type="button" class="button" value="History"></a><br> -->
